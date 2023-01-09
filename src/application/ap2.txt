@@ -1,0 +1,3 @@
+● Aplicação 2
+○ Crie um cliente e adicione 3 endereços a ele
+○ Imprima os endereços desse cliente
